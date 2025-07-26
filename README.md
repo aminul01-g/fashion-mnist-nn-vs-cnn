@@ -17,9 +17,7 @@ This project compares a fully connected Neural Network (NN) and a Convolutional 
 | NN    | 87.21%        |
 | CNN   | 91.72%        |
 
-✅ CNN outperformed NN by ZZ.ZZ%
-
-Update the table above after running the notebook.
+✅ CNN outperformed NN by 4.52%%
 
 ## 📁 Structure
 
