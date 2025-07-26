@@ -35,7 +35,7 @@ NN-vs-CNN-FashionMNIST/
 ```bash
 pip install -r requirements.txt
 ```
-3. Download the `fashion-mnist.csv` dataset and place it in a `data/` folder or upload in Colab.
+3. Download the `fashion-mnist.csv` dataset.
 4. Run the notebook.
 
 ## 🧰 Tech Stack
