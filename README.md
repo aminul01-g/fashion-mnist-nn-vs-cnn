@@ -25,10 +25,9 @@ Update the table above after running the notebook.
 
 ```
 NN-vs-CNN-FashionMNIST/
-├── NN_vs_CNN_Comparison.ipynb    # Main notebook
-├── README.md                     # Project documentation
-├── requirements.txt              # Python dependencies
-└── data/                         # (Optional) dataset directory
+├── NN_vs_CNN.ipynb    # Main notebook
+├── README.md                     # Project documentation            
+└── requirements.txt/             # Python dependencies
 ```
 
 ## 🚀 Getting Started
